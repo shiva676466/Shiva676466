@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://img.shields.io/github/commit-activity/m/shiva676466/75DaysLeetCodeChallenge
 <!--
 **shiva676466/Shiva676466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
