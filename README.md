@@ -78,3 +78,17 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/shiva676466/shiva676466/blob/output/github-contribution-grid-snake.svg)
+
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva676466&theme=tokyo-night)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=shiva676466&style=for-the-badge)
+
+
+## 👨‍💻 About Me
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Enthusiast;C%2B%2B+Developer;Always+Learning+New+Things)
