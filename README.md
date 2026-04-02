@@ -73,7 +73,6 @@
 </p>
 
 ---
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiva676466&no-frame=true&margin-w=10"/>
-</p>
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=shiva676466&v=1)
