@@ -74,4 +74,7 @@
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=shiva676466&v=2"/>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/shiva676466/shiva676466/blob/output/github-contribution-grid-snake.svg)
