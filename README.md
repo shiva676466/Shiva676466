@@ -20,7 +20,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## 👋 Hi, I'm Shiva
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Shiva+Ganesh+Varikuppala;AI+%26+ML+Enthusiast;DSA+Learner;Building+Cool+Stuff"/>
+</p>
 
 💻 Computer Science Student  
 🚀 AI & ML Enthusiast  
