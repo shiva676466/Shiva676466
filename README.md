@@ -104,6 +104,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva676466&theme=tokyo-night)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shiva676466/shiva676466/output/snake.svg" alt="Snake animation"/>
+</p>
+
+
+
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shiva676466&style=for-the-badge)
