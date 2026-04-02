@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=ShivaGanesh-Varikuppala&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 # 👋 Hi, I'm Shiva
 
 💻 Computer Science Student  
@@ -103,7 +107,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
 
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Shiva&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
