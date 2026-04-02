@@ -1,15 +1,24 @@
 ## Hi there 👋
-<!--
-**shiva676466/Shiva676466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shiva
 
-Here are some ideas to get you started:
+💻 Computer Science Student  
+🚀 AI & ML Enthusiast  
+🎯 Tech Innovation Advocate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+### Languages & Syntax
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+### Backend
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
