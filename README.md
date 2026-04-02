@@ -117,8 +117,14 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivaganesh-v">
+    <img src="https://img.shields.io/badge/LinkedIn-Shiva%20Ganesh-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:vsgvarikuppala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 
 ## 💡 Developer Quote
