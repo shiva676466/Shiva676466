@@ -87,3 +87,15 @@
 ## 👨‍💻 About Me
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Enthusiast;C%2B%2B+Developer;Always+Learning+New+Things)
+
+
+
+## 👨‍💻 About Me
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Enthusiast;C%2B%2B+Developer;DSA+Learner;Always+Curious+About+Tech)
+
+
+
+
+
+
