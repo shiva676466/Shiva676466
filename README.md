@@ -16,6 +16,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
 ## 👋 Hi, I'm Shiva
 
 💻 Computer Science Student  
@@ -85,12 +89,16 @@
 
 ---
 
+<br>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiva676466&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight"/>
 </p>
 ---
+
+<br>
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -102,6 +110,8 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
+
+<br>
 
 ## 📈 Contribution Graph
 
@@ -151,3 +161,6 @@
 
 > "First, solve the problem. Then, write the code." – John Johnson
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiva676466&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
