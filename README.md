@@ -99,5 +99,3 @@ ALWAYS CURIOUS ABOUT HOW THINGS WORK...!
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shiva676466&theme=tokyonight"/>
 </p>
-
-theme=tokyonight
