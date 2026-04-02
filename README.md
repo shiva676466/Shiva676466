@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00F7FF&height=280&section=header&text=Shiva%20Ganesh%20Varikuppala&fontSize=50&fontAlignY=35&desc=AI%20%7C%20ML%20Enthusiast%20%7Python20Developer&descAlignY=60&descSize=20&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00F7FF&height=280&section=header&text=Shiva%20Ganesh%20Varikuppala&fontSize=50&fontAlignY=35&desc=AI%20%7C%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=60&descSize=20&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;C%2B%2B+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Python+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile-Active-00F7FF?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Coding-C%2B%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coding-Python-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20DSA-purple?style=for-the-badge"/>
 </p>
 
@@ -16,7 +16,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer"/>
 </p>
 
-# 👋 Hi, I'm Shiva
+## 👋 Hi, I'm Shiva
 
 💻 Computer Science Student  
 🚀 AI & ML Enthusiast  
@@ -131,3 +131,4 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,azure,docker"/>
 </p>
+
