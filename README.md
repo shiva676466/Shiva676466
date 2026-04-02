@@ -107,3 +107,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
 
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiva676466&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight"/>
+</p>
+
