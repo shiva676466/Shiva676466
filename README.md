@@ -71,3 +71,33 @@ ALWAYS CURIOUS ABOUT HOW THINGS WORK...!
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shiva676466&theme=tokyonight)
+
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight)
+
+
+
+## 🏆 GitHub Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=shiva676466&theme=tokyonight)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiva676466&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight"/>
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shiva676466&theme=tokyonight"/>
+</p>
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiva676466&theme=tokyonight"/>
+</p>
+
+theme=tokyonight
