@@ -3,8 +3,8 @@
 
 💻 Computer Science Student  
 🚀 AI & ML Enthusiast  
-🎯 Tech Innovation Advocate  
-
+🎯 Tech Innovation Advocate 
+ALWAYS CURIOUS ABOUT HOW THINGS WORK...!
 ---
 
 ## 🧠 Skills
