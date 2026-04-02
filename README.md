@@ -75,6 +75,5 @@
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiva676466&theme=tokyonight"/>
-</p>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=shiva676466)
