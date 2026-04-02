@@ -90,12 +90,17 @@
 
 
 
-## 👨‍💻 About Me
+## 📚 Currently Learning
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Enthusiast;C%2B%2B+Developer;DSA+Learner;Always+Curious+About+Tech)
+- Data Structures & Algorithms (C++)
+- Machine Learning Basics
+- Backend Development
 
 
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
 
 
 
