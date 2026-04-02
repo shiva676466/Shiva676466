@@ -67,3 +67,8 @@ ALWAYS CURIOUS ABOUT HOW THINGS WORK...!
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple"/>
   </a>
 </p>
+
+
+## 📊 GitHub Stats
+
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva676466&show_icons=true&theme=tokyonight)
