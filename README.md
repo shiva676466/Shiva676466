@@ -110,3 +110,10 @@
 ## 💡 Developer Quote
 
 > "First, solve the problem. Then, write the code." – John Johnson
+
+
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,azure,docker"/>
+</p>
