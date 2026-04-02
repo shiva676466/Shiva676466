@@ -99,10 +99,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</p>
 
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva676466&theme=tokyo-night)
+
+
+## LeetCode Profile
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VSG143?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+
 
 
 
@@ -139,6 +150,4 @@
 ## 💡 Developer Quote
 
 > "First, solve the problem. Then, write the code." – John Johnson
-
-
 
