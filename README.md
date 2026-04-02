@@ -68,7 +68,6 @@ ALWAYS CURIOUS ABOUT HOW THINGS WORK...!
   </a>
 </p>
 
+## 🔥 GitHub Streak
 
-## 📊 GitHub Stats
-
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva676466&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shiva676466&theme=tokyonight)
