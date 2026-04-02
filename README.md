@@ -29,6 +29,8 @@
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Build.+Repeat.;Stay+consistent.;Keep+learning.;Never+stop+growing."/>
+
 ## 🧠 Skills
 
 ### Languages & Syntax
@@ -100,9 +102,10 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiva676466&theme=tokyonight"/>
 
 ---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiva676466&theme=tokyonight"/>
 
 <br>
 
@@ -168,4 +171,5 @@
 ## 💡 Developer Quote
 
 > "First, solve the problem. Then, write the code." – John Johnson
+
 
