@@ -74,10 +74,10 @@
 
 ---
 
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/shiva676466/shiva676466/output/github-contribution-grid-snake.svg)
+
 
 ## 📈 Contribution Graph
 
