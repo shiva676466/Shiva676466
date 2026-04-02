@@ -129,14 +129,17 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva676466&theme=tokyo-night)
 
 
-## LeetCode Profile
+## 💻 LeetCode Journey
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/VSG143?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
-
-
-
+<p align="center">
+  <a href="https://leetcode.com/VSG143/">
+    <img src="https://img.shields.io/badge/View%20Profile-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
 
 ## 👀 Profile Views
 
