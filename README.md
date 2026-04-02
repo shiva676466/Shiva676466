@@ -162,5 +162,5 @@
 > "First, solve the problem. Then, write the code." – John Johnson
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiva676466&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ3f0pK9Ve/giphy.gif" width="100%"/>
 </p>
