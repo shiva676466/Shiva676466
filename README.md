@@ -90,7 +90,7 @@
 
 ## 👨‍💻 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;AI+%26+ML+Enthusiast;DSA+Learner;Always+Exploring+Tech"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=PythonDeveloper;AI+%26+ML+Enthusiast;DSA+Learner;Always+Exploring+Tech"/>
 </p>
 
 
