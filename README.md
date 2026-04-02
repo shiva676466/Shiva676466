@@ -94,8 +94,14 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiva676466&show_icons=true&theme=tokyonight"/>
+  <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva676466&layout=compact&theme=tokyonight"/>
 </p>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiva676466&theme=tokyonight"/>
+
 ---
 
 <br>
@@ -104,6 +110,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shiva676466&theme=tokyonight"/>
 </p>
+
+<br/>
 
 ---
 
@@ -161,6 +169,3 @@
 
 > "First, solve the problem. Then, write the code." – John Johnson
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ3f0pK9Ve/giphy.gif" width="100%"/>
-</p>
