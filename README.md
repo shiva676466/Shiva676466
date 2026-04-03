@@ -113,7 +113,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shiva676466&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=shiva676466&theme=tokyonight&cache_seconds=1"/>
 </p>
 
 <br/>
