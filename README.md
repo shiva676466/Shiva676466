@@ -47,6 +47,13 @@
 
 ---
 
+## ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</p>
+
+---
+
 ## ☁️ Cloud & Deployment Services
 <p align="left">
   <a href="https://azure.microsoft.com/">
